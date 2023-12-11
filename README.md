@@ -1,2 +1,1 @@
-# Get-name-and-flag-from-API
-This project is about getting the name and flag of the country from remote API and connecting to the website with JavaScript, jQuery and AJAX and represented in Html, Css and Bootstrap.
+ This website is about getting the data from API and using it to show on webpage and finding the particular data. The API is about the country details and in this application I have used to show the name and flag of the country. I have used HTML, CSS and Bootstrap for the presentation. I have also used JavaScript and AJAX technique for the working and I have used a slight og jQuery in this project. Hope you like my mini work.
