@@ -1,0 +1,44 @@
+/* Get data button hover css */
+.get-data:hover {
+    background-color: #163020 !important;
+    color: white !important;
+}
+
+/* Get data button css */
+.get-data {
+    background-color: #88AB8E ;
+    border: solid #163020 1px ;
+    margin: auto ;
+    width: 75% ;
+    margin-bottom: 6px ;
+    color: black ;
+}
+
+/* Search data button hover css */
+.search-button:hover {
+    background-color: #163020 !important;
+    color: white !important;
+}
+
+/* Search data button css */
+.search-button {
+    background-color: #88AB8E ;
+    border: solid #163020 1px ;
+    color: black ;
+}
+
+/* Seacr area css */
+.search-grp {
+    width: 75% ;
+    margin: auto;
+}
+
+/* Changing color */
+
+h1 {
+    color: #163020;
+}
+
+hr {
+    color: #163020;
+}
